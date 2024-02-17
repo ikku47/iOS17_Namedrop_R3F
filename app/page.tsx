@@ -21,13 +21,6 @@ export default function Home() {
             transformOrigin: 'center',
             cursor:'pointer'
         }}/>
-        <img
-          className='phone-img'
-          src="/ip14_pro.png"
-          width={876/2}
-          height={1774/2}
-          alt="Picture of the author"
-        />
       </div>
     </main>
   )
